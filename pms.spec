@@ -1,7 +1,7 @@
 Summary:	Password Management System
 Name:		pms
 Version:	0.94
-Release: 	%mkrel 6
+Release: 	%mkrel 7
 License:	GPL
 Group:		File tools
 URL:		http://passwordms.sourceforge.net
