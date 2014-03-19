@@ -9,7 +9,9 @@ Group:		File tools
 URL:		http://passwordms.sourceforge.net
 Source:		%{name}-%{version}.tar.bz2
 Patch:		%{name}.install.patch.bz2
-BuildRequires:	ncurses-devel libcdk-devel
+BuildRequires:	ncurses-devel
+BuildRequires:	cdk-devel
+
 
 %description
 The Password Management System is a simple password manager for the
