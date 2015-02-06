@@ -3,7 +3,7 @@
 Summary:	Password Management System
 Name:		pms
 Version:	0.94
-Release: 	8
+Release: 	9
 License:	GPL
 Group:		File tools
 URL:		http://passwordms.sourceforge.net
