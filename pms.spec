@@ -6,7 +6,7 @@ Version:	0.94
 Release: 	9
 License:	GPL
 Group:		File tools
-URL:		http://passwordms.sourceforge.net
+URL:		https://passwordms.sourceforge.net
 Source:		%{name}-%{version}.tar.bz2
 Patch:		%{name}.install.patch.bz2
 BuildRequires:	ncurses-devel
