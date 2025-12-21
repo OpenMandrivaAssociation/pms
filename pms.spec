@@ -9,6 +9,11 @@ Group:		File tools
 URL:		https://passwordms.sourceforge.net
 Source:		%{name}-%{version}.tar.bz2
 Patch:		%{name}.install.patch.bz2
+BuildRequires:	autoconf
+BuildRequires:	automake
+BuildRequires:	libtool-base
+BuildRequires:	slibtool
+BuildRequires:	make
 BuildRequires:	ncurses-devel
 BuildRequires:	cdk-devel
 
